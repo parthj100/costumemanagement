@@ -30,7 +30,7 @@ An iOS application designed to help event organizers and teams efficiently track
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/costume-inventory-app.git
+   git clone https://github.com/your-username/costumemanagement.git
 
 2. Navigate to the project folder
 
